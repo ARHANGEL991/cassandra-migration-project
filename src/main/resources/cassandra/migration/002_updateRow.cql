@@ -1,0 +1,1 @@
+UPDATE users.test1 SET value = 'profit!' WHERE space = 'foo' AND key = 'blah';
